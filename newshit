@@ -1,0 +1,2 @@
+wait ("0.2")
+loadstring(game:httpget("https://raw.githubusercontent.com/zhangjunz84/twvz/refs/heads/main/arisecrossover.lua"))()
